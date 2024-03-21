@@ -4,7 +4,7 @@ from datetime import date
 from github_contents import GithubContents
 
 # Set constants
-DATA_FILE = "MyContactsTable.csv"
+DATA_FILE = "MyContactsTable2.csv"
 DATA_COLUMNS = ["Name", "Strasse", "PLZ", "Ort", "Geburtsdatum"]
 
 # Set page configuration
